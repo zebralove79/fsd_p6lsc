@@ -2,7 +2,7 @@
 
 ## Genrel Information
 - **IP address**: 52.41.14.83
-- **URL**: ec2-52-41-14-83.us-west-2.compute.amazonaws.com
+- **URL**: http://ec2-52-41-14-83.us-west-2.compute.amazonaws.com
 
 ## Software
 - apt-get install finger, git, apache2, libapache2-mod-wsgi, ntp, pip
